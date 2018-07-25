@@ -1,5 +1,6 @@
 # Sample AEM project template
 
+http://www.aemcq5tutorials.com/tutorials/create-aem-multi-module-project/#build_aem_project_maven
 This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
 
 ## Modules
